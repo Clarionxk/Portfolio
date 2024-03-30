@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        My goal is to revolutionize businesses by automating processes, reducing redundancy, and enhancing efficiency through innovative RPA solutions. I am passionate about leveraging technology to streamline operations and drive sustainable growth for organizations.
+        My goal is to revolutionize businesses by automating processes, reducing Workload, and enhancing efficiency through innovative RPA solutions. I am passionate about leveraging technology to streamline operations and drive sustainable growth for organizations.
         </p>
 
         <br />
